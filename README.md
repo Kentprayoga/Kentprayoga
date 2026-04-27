@@ -86,8 +86,8 @@ Hi, I'm **Kent Fahmi Prayoga** — a tech enthusiast and aspiring developer pass
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kent07111&theme=tokyonight&hide_border=true&show_icons=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kent07111&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kentprayoga&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kentprayoga&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
